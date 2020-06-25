@@ -15,7 +15,7 @@ en: # Change this to the desired locale (e.g., es, fr).
         # <%= t('.title') %> # lazy lookup
         # or
         # <%= t(:title, :scope => [:layouts, :portal, :default]) %> # explicit scope
-        title: GitTest Portal
+        title: New Title
         welcome: Welcome %{login} # example of variable interpolation
       
       
